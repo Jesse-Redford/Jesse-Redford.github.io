@@ -28,7 +28,7 @@ Syntax highlighted code block
 ![Here is the alt text](https://Jesse-Redford.github.io/main/Headshot_Italy.jpg "Here is the Title text")
 
 
-![Headshot](Headshot_Italy.jpg)
+![Headshot](Headshot_Italy.jpg){:height="50%" width="50%"}
 
 
 <img src="Headshot_Italy.jpg" alt="Headshot" style="height: 10px; width:10px;"/>
