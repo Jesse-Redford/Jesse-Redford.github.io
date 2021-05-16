@@ -45,7 +45,7 @@ Image - Link - Description
       <img src="img_snow_wide.jpg" style="width:100%">
   </div>
 
-<script>
+
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -77,7 +77,7 @@ Image - Link - Description
     </div>
   </div>
 </div>
-</script>
+
 </html>
 
 
