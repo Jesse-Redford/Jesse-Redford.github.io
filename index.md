@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-
+![](main/Headshot_Italy.jpgg?raw=true)
 
 ![https://github.com/Jesse-Redford/Jesse-Redford.github.io/blob/main/Headshot_Italy.jpg](src)
 ```
