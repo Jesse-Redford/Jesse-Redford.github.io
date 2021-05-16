@@ -11,7 +11,7 @@ Image - Link - Description
  
  <link rel="stylesheet" type="text/css" href=style.css">
 
-<script src="main.js" type="text/javascript"></script>
+<script src="gallery.js" type="text/javascript"></script>
 
 
 <!-- Container for the image gallery -->
