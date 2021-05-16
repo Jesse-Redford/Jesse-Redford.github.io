@@ -1,4 +1,6 @@
 
+<!-- https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp Find example code here / make should add img folder-->
+
 <html>
   
 <head>
