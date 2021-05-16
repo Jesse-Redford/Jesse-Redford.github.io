@@ -8,64 +8,79 @@ Hello my name is Jesse, I am PhD Student at the Univeristy of North Caronlina at
 ### Portfolio
 
 Image - Link - Description
-  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Full Screen Slider</title>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="slider">
-    <div class="slide current">
-      <div class="content">
-        <h1>Slide One</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h1>Slide Two</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h1>Slide Three</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h1>Slide Four</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h1>Slide Five</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h1>Slide Six</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quidem, architecto eos adipisci maxime aperiam!</p>
-      </div>
-    </div>
-  </div>
-  <div class="buttons">
-    <button id="prev"><i class="fas fa-arrow-left"></i></button>
-    <button id="next"><i class="fas fa-arrow-right"></i></button>
+ 
+ <link rel="stylesheet" type="text/css" href=style.css">
+
+<script src="main.js" type="text/javascript"></script>
+
+
+<!-- Container for the image gallery -->
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+      <img src="img_woods_wide.jpg" style="width:100%">
   </div>
 
-  <script src="main.js"></script>
-</body>
-</html>
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+      <img src="img_5terre_wide.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+      <img src="img_mountains_wide.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+      <img src="img_lights_wide.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+      <img src="img_nature_wide.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+      <img src="img_snow_wide.jpg" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <!-- Image text -->
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <!-- Thumbnail images -->
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+    </div>
+  </div>
+</div>
+
+
 
 
 <!--
