@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-{:refdef: style="width: 100px; height: 100px"}
+{:refdef: style="width: 1000px; height: 1000px"}
 ![Headshot](Headshot_Italy.jpg)
 {: refdef}
 
