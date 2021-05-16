@@ -9,9 +9,9 @@ Hello my name is Jesse, I am PhD Student at the Univeristy of North Caronlina at
 
 Image - Link - Description
  
- <link rel="stylesheet" type="text/css" href=style.css">
+<link rel="stylesheet" type="text/css" href=style.css">
 
-<script src="gallery.js" type="text/javascript"></script>
+<script src="gallery.js" type="text/javascript">
 
 
 <!-- Container for the image gallery -->
@@ -80,7 +80,8 @@ Image - Link - Description
   </div>
 </div>
 
-
+</link>
+</script>
 
 
 <!--
