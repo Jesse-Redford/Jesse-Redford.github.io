@@ -10,7 +10,7 @@ Hello my name is Jesse, I am PhD Student at the Univeristy of North Caronlina at
 Image - Link - Description
 
 
-
+<html>
 <!-- Container for the image gallery -->
 <div class="container">
 
@@ -77,7 +77,7 @@ Image - Link - Description
   </div>
 </div>
 
-
+</html>
 
 
 
