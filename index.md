@@ -27,15 +27,13 @@ Syntax highlighted code block
 ```
 
 
-{:refdef: style="width: 1000px; height: 1000px"}
-![Headshot](Headshot_Italy.jpg)
-{: refdef}
-
-
 
 
 <img src="Headshot_Italy.jpg" alt="Headshot" style="height: 10px; width:10px;"/>
 
+
+
+<!--
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -46,3 +44,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
