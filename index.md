@@ -17,11 +17,11 @@ A div with an id of 'slideshow' contains five images, the first of which is show
 -->
 <body>
 <div id="slideshow">
-	<img src="http://placehold.it/300x200&text=foo1.jpg">
-	<img src="http://placehold.it/300x200&text=foo2.jpg" style="display: none">
-	<img src="http://placehold.it/300x200&text=foo3.jpg" style="display: none">
-	<img src="http://placehold.it/300x200&text=foo4.jpg" style="display: none">
-	<img src="http://placehold.it/300x200&text=foo5.jpg" style="display: none">
+	<img src="Headshot_Italy.jpg">
+	<img src="Headshot_Italy.jpg" style="display: none">
+	<img src="Headshot_Italy.jpg" style="display: none">
+	<img src="Headshot_Italy.jpg" style="display: none">
+	<img src="Headshot_Italy.jpg" style="display: none">
 </div>
 <script>
 var slideshow = document.getElementById('slideshow');
