@@ -25,6 +25,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
+![Here is the alt text](https://Jesse-Redford.github.io/main/Headshot_Italy.jpg "Here is the Title text")
+
 
 ![Headshot](main/Headshot_Italy.jpg)
 
