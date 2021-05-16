@@ -25,9 +25,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-![Here is the alt text](https://Jesse-Redford.github.io/main/Headshot_Italy.jpg "Here is the Title text")
 
-{:refdef: style="width: 10px; height: 10px"}
+
+{:refdef: style="width: 100px; height: 100px"}
 ![Headshot](Headshot_Italy.jpg)
 {: refdef}
 
