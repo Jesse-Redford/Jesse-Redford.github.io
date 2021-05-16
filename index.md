@@ -31,7 +31,7 @@ Syntax highlighted code block
 ![Headshot](Headshot_Italy.jpg)
 
 
-<img src="/main/Headshot_Italy.jpg" alt="Headshot" style="height: 100px; width:100px;"/>
+<img src="Headshot_Italy.jpg" alt="Headshot" style="height: 100px; width:100px;"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
