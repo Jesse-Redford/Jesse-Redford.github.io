@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/Jesse-Redford/Jesse-Redford.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello my name is Jesse, I am PhD Student at the Univeristy of North Caronlina at Charlotte and Research Assistant for Center for Precision Metrology. I am also Vice-President of the American Society of Precision Engineers Graduate Student Chapter. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
