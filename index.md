@@ -18,8 +18,8 @@ A div with an id of 'slideshow' contains five images, the first of which is show
 <html>
 <body>
 <div id="slideshow">
-	<img src="Headshot.PNG">
-	<img src="Headshot_Italy.jpg" style="display: none">
+	<img src="Headshot.PNG"  alt="Headshot One"   style="display: none">
+	<img src="Headshot_Italy.jpg" alt="Headshot Two" style="display: none">
 	<img src="Headshot_Italy.jpg" style="display: none">
 	<img src="Headshot_Italy.jpg" style="display: none">
 	<img src="Headshot_Italy.jpg" style="display: none">
