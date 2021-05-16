@@ -4,7 +4,7 @@
   <!-- Full-width images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-      <img src="img_woods_wide.jpg" style="width:100%">
+      <img src="Headshot_Italy.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
@@ -44,7 +44,7 @@
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="Headshot_Italy.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
     <div class="column">
       <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
