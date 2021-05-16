@@ -18,7 +18,7 @@ A div with an id of 'slideshow' contains five images, the first of which is show
 <html>
 <body>
 <div id="slideshow">
-	<img src="Headshot.jpg">
+	<img src="Headshot.png">
 	<img src="Headshot_Italy.jpg" style="display: none">
 	<img src="Headshot_Italy.jpg" style="display: none">
 	<img src="Headshot_Italy.jpg" style="display: none">
