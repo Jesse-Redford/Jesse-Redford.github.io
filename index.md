@@ -27,8 +27,11 @@ Syntax highlighted code block
 ```
 ![Here is the alt text](https://Jesse-Redford.github.io/main/Headshot_Italy.jpg "Here is the Title text")
 
+{:refdef: style="width: 10px; height: 10px"}
+![Headshot](Headshot_Italy.jpg)
+{: refdef}
 
-![Headshot](Headshot_Italy.jpg){:height="50%" width="50%"}
+
 
 
 <img src="Headshot_Italy.jpg" alt="Headshot" style="height: 10px; width:10px;"/>
