@@ -1,3 +1,5 @@
+
+<html>
 <!-- Container for the image gallery -->
 <div class="container">
 
@@ -64,7 +66,7 @@
   </div>
 </div>
 
-
+</html>
 
 
 
