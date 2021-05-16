@@ -24,9 +24,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![](main/Headshot_Italy.jpgg?raw=true)
+![Headshot](main/Headshot_Italy.jpg)
 
-![https://github.com/Jesse-Redford/Jesse-Redford.github.io/blob/main/Headshot_Italy.jpg](src)
+
+<img src="main/Headshot_Italy.jpg" alt="Headshot" style="height: 100px; width:100px;"/>
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
