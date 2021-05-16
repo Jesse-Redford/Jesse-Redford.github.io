@@ -1,9 +1,8 @@
 
 <html>
   
- <head>
-  <link rel="stylesheet" href="style.css" type="text/css">
-
+<head>
+<link rel="stylesheet" href="style.css" type="text/css">
 <script type="text/javascript" src="gallery.js"></script>
   
 <!-- Container for the image gallery -->
@@ -52,7 +51,7 @@
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="Headshot_Italy.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="Headshot_Italy.jpg" style="width:100%" onclick="currentSlide(1)" alt="Hello my name is Jesse, I am PhD Student at the Univeristy of North Caronlina at Charlotte and Research Assistant for Center for Precision Metrology. Check out my portfolio by scrolling through this gallery. ">
     </div>
     <div class="column">
       <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
